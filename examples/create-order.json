@@ -1,0 +1,16 @@
+{
+  "order_id": 123,
+  "store_id": 6,
+  "customer_name": "John Doe",
+  "customer_phone": "01XXXXXXXXX",
+  "customer_address": "Dhaka, Bangladesh",
+  "cod_amount": 1079,
+  "delivery_charge": 80,
+  "items": [
+    {
+      "name": "Test Product",
+      "qty": 1,
+      "price": 999
+    }
+  ]
+}

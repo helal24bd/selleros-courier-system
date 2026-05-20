@@ -1,0 +1,8 @@
+{
+  "courier": "example",
+  "event": "parcel.delivered",
+  "tracking_id": "TRK123456",
+  "consignment_id": "CN123456",
+  "status": "delivered",
+  "timestamp": "2026-05-20T23:30:00+06:00"
+}
